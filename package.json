@@ -2,7 +2,10 @@
   "name": "@dominiccarrington/tap",
   "version": "1.0.0",
   "description": "Bringing the Ruby inspired Laravel Function to JavaScript",
-  "keywords": [ "tap", "ruby function" ],
+  "keywords": [
+    "tap",
+    "ruby function"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -15,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dominiccarrington/tap.git"
+    "url": "git+https://github.com/dominiccarrington/tap.git"
   },
   "bugs": {
     "url": "https://github.com/dominiccarrington/tap/issues"
