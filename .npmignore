@@ -1,0 +1,6 @@
+.gitignore
+src
+index.ts
+test
+jest.config.js
+pnpm-lock.yaml
