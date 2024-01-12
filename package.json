@@ -1,6 +1,6 @@
 {
   "name": "@dominiccarrington/tap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bringing the Ruby inspired Laravel Function to JavaScript",
   "keywords": [
     "tap",
